@@ -74,3 +74,10 @@ layout: default
   - 省钱妙招：买周包比日包划算；多人出行共享热点，但注意流量消耗像开闸洪水！
 
 　　个人建议：如果你是短期游，eSIM优先；长期待选Africell实体卡。2025年政策没大变，但随时关注运营商更新。话说，你有没有试过在异
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Sierra Leone eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/sierra-leone-data-plans)
